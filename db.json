@@ -1,0 +1,299 @@
+{
+    "products": [
+        {
+          "name": "Carrot",
+          "img": "https://example.com/carrot.jpg",
+          "price": "1.99",
+          "description": "Fresh orange carrot",
+          "author_id": "12345",
+          "id": "98765"
+        },
+        {
+          "name": "Broccoli",
+          "img": "https://example.com/broccoli.jpg",
+          "price": "2.49",
+          "description": "Green and healthy broccoli",
+          "author_id": "54321",
+          "id": "56789"
+        },
+        {
+          "name": "Tomato",
+          "img": "https://example.com/tomato.jpg",
+          "price": "0.99",
+          "description": "Juicy red tomato",
+          "author_id": "67890",
+          "id": "43210"
+        },
+        {
+          "name": "Cucumber",
+          "img": "https://example.com/cucumber.jpg",
+          "price": "1.49",
+          "description": "Crunchy green cucumber",
+          "author_id": "09876",
+          "id": "34567"
+        },
+        {
+          "name": "Spinach",
+          "img": "https://example.com/spinach.jpg",
+          "price": "1.79",
+          "description": "Nutritious spinach leaves",
+          "author_id": "65432",
+          "id": "87654"
+        },
+        {
+          "name": "Potato",
+          "img": "https://example.com/potato.jpg",
+          "price": "0.89",
+          "description": "Versatile potato for cooking",
+          "author_id": "21098",
+          "id": "76543"
+        },
+        {
+          "name": "Onion",
+          "img": "https://example.com/onion.jpg",
+          "price": "0.69",
+          "description": "Flavorful white onion",
+          "author_id": "78901",
+          "id": "65432"
+        },
+        {
+          "name": "Bell Pepper",
+          "img": "https://example.com/bellpepper.jpg",
+          "price": "1.29",
+          "description": "Colorful bell pepper",
+          "author_id": "23456",
+          "id": "54321"
+        },
+        {
+          "name": "Lettuce",
+          "img": "https://example.com/lettuce.jpg",
+          "price": "1.49",
+          "description": "Crisp and fresh lettuce",
+          "author_id": "87654",
+          "id": "43210"
+        },
+        {
+          "name": "Mushroom",
+          "img": "https://example.com/mushroom.jpg",
+          "price": "2.99",
+          "description": "Savory mushroom",
+          "author_id": "34567",
+          "id": "32109"
+        },
+        {
+          "name": "Zucchini",
+          "img": "https://example.com/zucchini.jpg",
+          "price": "1.99",
+          "description": "Tasty zucchini",
+          "author_id": "65432",
+          "id": "21098"
+        },
+        {
+          "name": "Eggplant",
+          "img": "https://example.com/eggplant.jpg",
+          "price": "2.49",
+          "description": "Purple eggplant",
+          "author_id": "43210",
+          "id": "10987"
+        },
+        {
+          "name": "Cauliflower",
+          "img": "https://example.com/cauliflower.jpg",
+          "price": "2.99",
+          "description": "Healthy cauliflower",
+          "author_id": "78901",
+          "id": "09876"
+        },
+        {
+          "name": "Cabbage",
+          "img": "https://example.com/cabbage.jpg",
+          "price": "1.79",
+          "description": "Fresh cabbage",
+          "author_id": "23456",
+          "id": "98765"
+        },
+        {
+          "name": "Asparagus",
+          "img": "https://example.com/asparagus.jpg",
+          "price": "3.49",
+          "description": "Delicious asparagus",
+          "author_id": "87654",
+          "id": "87654"
+        },
+        {
+          "name": "Radish",
+          "img": "https://example.com/radish.jpg",
+          "price": "0.99",
+          "description": "Crunchy radish",
+          "author_id": "34567",
+          "id": "76543"
+        },
+        {
+          "name": "Green Bean",
+          "img": "https://example.com/greenbean.jpg",
+          "price": "1.99",
+          "description": "Tender green bean",
+          "author_id": "65432",
+          "id": "65432"
+        },
+        {
+          "name": "Celery",
+          "img": "https://example.com/celery.jpg",
+          "price": "1.29",
+          "description": "Fresh celery stalk",
+          "author_id": "43210",
+          "id": "54321"
+        },
+        {
+          "name": "Artichoke",
+          "img": "https://example.com/artichoke.jpg",
+          "price": "3.99",
+          "description": "Gourmet artichoke",
+          "author_id": "78901",
+          "id": "43210"
+        },
+        {
+          "name": "Sweet Potato",
+          "img": "https://example.com/sweetpotato.jpg",
+          "price": "1.99",
+          "description": "Sweet and nutritious potato",
+          "author_id": "23456",
+          "id": "32109"
+        }
+      ],
+    "users":[
+        {
+          "name": "John",
+          "img": "https://example.com/john.jpg",
+          "Surname": "Doe",
+          "balance": "5000",
+          "id": "12345"
+        },
+        {
+          "name": "Emily",
+          "img": "https://example.com/emily.jpg",
+          "Surname": "Smith",
+          "balance": "3500",
+          "id": "67890"
+        },
+        {
+          "name": "David",
+          "img": "https://example.com/david.jpg",
+          "Surname": "Johnson",
+          "balance": "4200",
+          "id": "24680"
+        },
+        {
+          "name": "Sarah",
+          "img": "https://example.com/sarah.jpg",
+          "Surname": "Williams",
+          "balance": "6000",
+          "id": "13579"
+        },
+        {
+          "name": "Michael",
+          "img": "https://example.com/michael.jpg",
+          "Surname": "Brown",
+          "balance": "4800",
+          "id": "97531"
+        },
+        {
+          "name": "Jessica",
+          "img": "https://example.com/jessica.jpg",
+          "Surname": "Davis",
+          "balance": "5100",
+          "id": "86420"
+        },
+        {
+          "name": "Christopher",
+          "img": "https://example.com/christopher.jpg",
+          "Surname": "Miller",
+          "balance": "3900",
+          "id": "75319"
+        },
+        {
+          "name": "Amanda",
+          "img": "https://example.com/amanda.jpg",
+          "Surname": "Wilson",
+          "balance": "4400",
+          "id": "64208"
+        },
+        {
+          "name": "Matthew",
+          "img": "https://example.com/matthew.jpg",
+          "Surname": "Taylor",
+          "balance": "5700",
+          "id": "53197"
+        },
+        {
+          "name": "Stephanie",
+          "img": "https://example.com/stephanie.jpg",
+          "Surname": "Anderson",
+          "balance": "3200",
+          "id": "42086"
+        },
+        {
+          "name": "Daniel",
+          "img": "https://example.com/daniel.jpg",
+          "Surname": "Thomas",
+          "balance": "3800",
+          "id": "30975"
+        },
+        {
+          "name": "Nicole",
+          "img": "https://example.com/nicole.jpg",
+          "Surname": "Jackson",
+          "balance": "4600",
+          "id": "19864"
+        },
+        {
+          "name": "Andrew",
+          "img": "https://example.com/andrew.jpg",
+          "Surname": "White",
+          "balance": "4200",
+          "id": "08753"
+        },
+        {
+          "name": "Samantha",
+          "img": "https://example.com/samantha.jpg",
+          "Surname": "Harris",
+          "balance": "5400",
+          "id": "97642"
+        },
+        {
+          "name": "Joseph",
+          "img": "https://example.com/joseph.jpg",
+          "Surname": "Martin",
+          "balance": "4700",
+          "id": "86531"
+        },
+        {
+          "name": "Lauren",
+          "img": "https://example.com/lauren.jpg",
+          "Surname": "Thompson",
+          "balance": "5000",
+          "id": "75420"
+        },
+        {
+          "name": "Ryan",
+          "img": "https://example.com/ryan.jpg",
+          "Surname": "Garcia",
+          "balance": "4300",
+          "id": "64309"
+        },
+        {
+          "name": "Ashley",
+          "img": "https://example.com/ashley.jpg",
+          "Surname": "Lee",
+          "balance": "4100",
+          "id": "53298"
+        },
+        {
+          "name": "Brandon",
+          "img": "https://example.com/brandon.jpg",
+          "Surname": "Clark",
+          "balance": "5900",
+          "id": "42187"
+        }
+      ]
+}
